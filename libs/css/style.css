@@ -1,6 +1,6 @@
 body {background-color: #efefde; font-weight: 400; padding-top:2em;}
 
-
+a {color: #d19494}
 a[href^="http://"],a[href^="https://"] {text-decoration:underline;}
 a[href^="http://"]:hover ,a[href^="https://"]:hover {text-decoration:none;}
 
